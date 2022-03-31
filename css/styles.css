@@ -33,6 +33,7 @@ tr:hover {
 a{
   color: #40e0d0;;
   font-family:'Montserrat', sans-serif ;
+  text-align: center;
   font-size: 15px;
   margin: 10px 20px;
   text-decoration: none;
@@ -115,8 +116,10 @@ color: #40e0d0;
   }
   .Bottom{
     text-align: center;
+    padding-left: 50px;
     padding-top:  100px;
     padding-bottom: 20px;
+
   }
 
 
@@ -149,6 +152,7 @@ color: #40e0d0;
 .bottom-container{
   background-color:#f0f8ff ;
   text-align: center;
+  padding-left: 60px;
   padding-top:  50px;
   padding-bottom: 20px;
 
